@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Resume
 
 You can use the [editor on GitHub](https://github.com/parth1964/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Parth Ramanuj
+## 6353840011
+### ramanujparth20@gmail.com
 
 - Bulleted
 - List
